@@ -13,14 +13,14 @@ By leveraging React and Django, we have built a robust platform that caters to t
 
 Experience the convenience and efficiency of our QR Menu application today!
 
-Example Web Page: https://qr-menu-37f8fba3460c.herokuapp.com/
+Example Web Page: https://musagordev.pythonanywhere.com/
 
-Example Menu Page: https://qr-menu-37f8fba3460c.herokuapp.com/menu/2/1
+Example Menu Page: https://musagordev.pythonanywhere.com/menu/1/1
 
 Example of QR Code:
 
+![image](https://github.com/musagordev/qrmenu_backend/assets/135444845/69d1d9ec-3225-4808-a8d2-8e15ae17bea3)
 
-![image](https://github.com/musagordev/qrmenu_backend/assets/135444845/5493c674-24ed-4aa6-a6f3-69f2f14511c7)
 
 
 
